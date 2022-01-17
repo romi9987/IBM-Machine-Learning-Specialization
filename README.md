@@ -5,7 +5,7 @@
 # IBM Machine Learning Specialization
 
 
-Machine Learning is one of the most in-demand skills for jobs related to modern AI applications, a field in which hiring has grown 74% annually for the last four years (LinkedIn). This Professional Certificate from IBM provides evidence that the above named individual developed skills in *Machine Learning: Unsupervised Learning*, *Supervised Learning*, *Deep Learning*, and *Reinforcement Learning*; including *Time Series Analysis and Survival Analysis*. This program consisted of 6 courses providing a solid theoretical understanding and considerable practice of the main algorithms, uses, and best practices related to Machine Learning.
+Machine Learning is one of the most in-demand skills for jobs related to modern AI applications, a field in which hiring has grown 74% annually for the last four years (LinkedIn). This Professional Certificate from IBM provides evidence that the above named individual developed skills in *Machine Learning: Unsupervised Learning*, *Supervised Learning*, *Deep Learning*, and *Reinforcement Learning*; including *Time Series Analysis and Survival Analysis*. This program consisted of 6 courses providing a solid theoretical understanding and considerable practice of the main algorithms, uses, and best practices related to Machine Learning. I like it.
 
 [https://coursera.org/share/fd7c2b311b2107247bff44247811eb98](https://coursera.org/share/fd7c2b311b2107247bff44247811eb98)
 
